@@ -7,7 +7,7 @@ function Greeting(props){
 
 function App() {
   return(
-    <Greeting name="Alice" />
+    <Hello name="Alice" />
   )
   
 }
